@@ -457,6 +457,10 @@ export default function App() {
           </section>
         </div>
       )}
+      <p>
+        Proyecto final de la materia Ingeniería de software - Diego Alejandro
+        López Santana - 222013939
+      </p>
     </main>
   );
 }
